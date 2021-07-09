@@ -1,0 +1,174 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+.home{
+	background-image: url(https://fugazmagiadaluz.com/wp-content/uploads/2018/02/intro_bg_pc.jpg);
+	background-size: cover;
+	width: 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+	position: relative;
+    overflow: hidden;
+    min-height: 930px;
+}
+
+.sosial_area {
+	float: left;
+	padding: 300px 0px 0px 30px;
+}
+.sosial_area a{
+	color: #1a1d24;
+	font-family: "Roboto", sans-serif;
+	font-size: 16px;
+	transform: rotate(-90deg);
+	display: block;
+    height: 108px;
+
+}
+
+.dot{
+	color: red;
+	font-size: 30px;
+}
+
+
+.banner-content{
+	 
+	font-size: 30px;
+    font-family: "Playfair Display", serif;
+    font-weight: 100;
+    text-align: left;
+    color: #1a1d24;
+    margin-block-end: 20px; 
+	position: absolute;
+    left: 0; 
+	bottom: 0;
+	padding: 100px;
+	width: 100%;
+	margin-bottom: 200px;
+	
+}
+.banner-content span {
+	color: red;
+
+}
+
+.main-btn{
+	border: 3px solid black;
+	color: #fff;
+	background: #1a1d24;
+	font-family: "Roboto", sans-serif;
+	font-size: 20px;   
+	font-weight: 300;
+	line-height: 48px;
+	margin-bottom: 10px;
+	margin: 0 auto 50px;
+	text-transform: uppercase;
+	transition: all 300ms linear 0s;
+	
+}
+
+
+.main-btn:hover{
+	background-color: #fff;
+	cursor: pointer;
+	margin-top: 350px;
+	
+}
+
+
+.banner-content  p{
+	color: #1a1d24;
+	font-family: "Roboto", sans-serif;
+	margin-top: 10px;
+	font-size: 24px;
+
+}
+
+.area-heading {
+
+	text-align: center;
+	padding: 50px
+}
+
+
+.area-heading h3 {
+    font-size: 36px;
+    color: #1a1d24;
+    position: relative;
+    text-transform: capitalize;
+	font-family: "Playfair Display", serif;
+    font-weight: bold;
+
+}
+
+.area-heading span{
+ color: red;
+
+}
+	
+
+.alboms{
+	width: 100%;
+	display: flex;
+ }
+
+
+
+ .portfolio{
+	 width: 100%;
+	 padding: 100px;
+ }
+
+.alboms1{
+
+	width: 40%;
+	height: 100%;
+	justify-content: space-between;
+	padding: 0 15px;
+	
+}
+.alboms1 img, .alboms2 img{
+	width: 80%;
+	
+}
+
+
+.alboms2{
+	width: 60%;
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+	padding: 0 15px;
+}
+
+.image{
+	width: 50px;
+	padding: 0px 5px 35px 0px;
+	 
+
+}
+.image1{
+	width: 30px;
+	padding: 0px 5px 35px 0px;
+}
+ .image2{
+	width: 30px;
+	padding: 0px 5px 35px 0px;
+ }
+
+ .image3{
+
+	width: 100%;
+	padding: 50px 100px 85px 60px;
+
+
+	
+
+
+ }
+
+
+
